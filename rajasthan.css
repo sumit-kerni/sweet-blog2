@@ -1,0 +1,49 @@
+.rajasthan{
+    width: 100%;
+    height: 100vh;
+    padding: 70px 0;
+}
+.rajasthan h1{
+    font-size: x-large;
+}
+ .raj_main{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.rajasthan p{
+    font-style: italic;
+    font-size:x-large;
+    color: rgb(33, 24, 29);
+}
+
+ .image img{
+    width: 500px;
+    position: relative;
+    top: 60px;
+    height:300;
+    filter:drop-shadow(10px 10px 10px rgb(173, 72, 72));
+}
+
+
+ .raj_text h1{
+    font-size: 55px;
+    position: relative;
+    bottom: 50px;
+}
+
+.raj_text h3{
+    font-size: 30px;
+    margin: 0 0 50px 0;
+}
+
+ .raj_text p{
+    width: 650px;
+    text-align: justify;
+    margin-right: 30px;
+    line-height: 22px;
+    color:indigo;
+    font-style: oblique;
+    font-size:x-large;
+}
+

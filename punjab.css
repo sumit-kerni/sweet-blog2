@@ -1,0 +1,67 @@
+.punjab{
+    width: 100%;
+    height: 100vh;
+    padding: 70px 0;
+    /*background-color:black;*/
+    /* background-image: url("image/green2.jpg");
+    background-size: cover;  */
+      
+}
+.punjab img{
+     filter:drop-shadow(10px 10px 10px rgb(162, 117, 122)); 
+}
+.punjab h1{
+    font-size:x-large;
+}
+ .punjab_main{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    /*background-color:black;*/
+}
+.punjab p{
+    font-style: italic;
+    font-size:x-large;
+    color: rgb(22, 18, 20);
+    
+}
+.punjab img{
+    width: 700px;
+    height:450px;
+}
+/* #img3{
+    height: 200px;
+    width: 350px;
+} */
+
+.image img{
+    width: 600px;
+    position: relative;
+    top: 60px;
+    height:auto;
+    filter:drop-shadow(10px 10px 10px rgb(173, 72, 72));
+    
+}
+
+
+.punjab_text h1{
+    font-size: 55px;
+    position: relative;
+    bottom: 50px;
+}
+
+ .punjab_text h3{
+    font-size: 30px;
+    margin: 0 0 50px 0;
+}
+
+ .punjab_text p{
+    width: 650px;
+    text-align: justify;
+    margin-right: 30px;
+    line-height: 22px;
+    color:indigo;
+    font-style: oblique;
+    font-size:x-large;
+}
+
